@@ -24,10 +24,3 @@ Before you begin, ensure you have the following installed on your system:
 - **pip** (Python package installer)
 - **Qdrant** (Vector database engine)
 
-### **Installation**
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/real-estate-qna-system.git
-   cd real-estate-qna-system
